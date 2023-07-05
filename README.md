@@ -1,2 +1,1 @@
-# Lab-1
-Failed Authentication and Log Observation 
+# Failed Authentication and Log Observation Lab
